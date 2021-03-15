@@ -29,13 +29,13 @@ des écrans, …)
 
 ## Installation du projet
 
-1. Récupérer le projet sur github, pour cela ouvrir un invité de commande et executer la ligne : "git clone <https://github.com/tamedi/it-training-front.git>" pour la partie front-end, et "git clone <https://github.com/Fatima-Rami/it-training-back.git>" pour la partie back-end.
+1. Récupérer le projet sur github, pour cela ouvrir un invité de commande et executer la ligne : "git clone <https://github.com/juprodho/it-training-front.git>" pour la partie front-end, et "git clone <https://github.com/juprodho/it-training-back.git>" pour la partie back-end.
 
-2. Executer MySQL workbench et configurer une nouvelle connexion sur le port localhost://3306, nom: root, password: root. Créer un nouveau schéma "projet". Laisser le programme ouvert.
+2. Configurer une nouvelle connexion MySQL sur le port localhost://3306, nom: root, password: root. Créer un nouveau schéma "projet". Laisser le programme ouvert.
 
-3. Ouvrir Spring tool suit, importer le projet du dossier "it-training-back" (utilisera sur le port 9191 pour communiquer avec Angular), et lancer le projet en tant que Spring boot app.
+3. Ouvrir l'IDE, importer le projet du dossier "it-training-back" (utilisera sur le port 9191 pour communiquer avec Angular), et lancer le projet en tant que Spring boot app.
 
-4. Ourvir Visul Studio code dans le dossier it-training-front, ouvrir un invité de commande dans le même dossier et exécuter "npm i" afin d'installer toutes les dépendances. Exécuter ensuite le projet avec la commande "ng serve -o", vous serez rediriger automatiquement vers la page d'accueil du projet dans le navigateur web (sinon, rendez-vous à l'adresse localhost:4200). Le projet a été testé avec Google Chrome.
+4. Ourvir Visul Studio code dans le dossier it-training-front, dans le terminal exécuter "npm i" afin d'installer toutes les dépendances. Lancer ensuite le projet avec la commande "ng serve -o", vous serez rediriger automatiquement vers la page d'accueil du projet dans le navigateur web (sinon, rendez-vous à l'adresse localhost:4200). Le projet a été testé avec Google Chrome.
 
 ## Utilisation du projet
 
